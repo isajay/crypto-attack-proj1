@@ -1,9 +1,38 @@
 (1) 
 
-Generating first block: ..................
-Generating second block: W....
-Running time: 4.42289 s
+Using output filenames: 'file1' and 'file2'
+Using initial value: 0123456789abcdeffedcba9876543210
 
-real	0m4.463s
-user	0m4.416s
-sys	0m0.011s
+Generating first block: ..
+Generating second block: S01..........
+Running time: 1.34765 s
+
+real	0m1.371s
+user	0m1.346s
+sys	0m0.007s
+
+(2)
+
+File 1:
+78eb3e249909ff51647495d6c1aa8a9775cf860099ed63600a5a42722e8c
+275f41b4beee3cc6be686f4a389c92b16a587f5bc84ccc422f012466019c
+6bc125b234e4a72cb51ce6970bd4533ddb811a044a7cfa4a23e635a7d31a
+ee3bec87dee3e6a54694f25224d0ca275c0ff98c65ea4479dbf5b30ef252
+571de72a2967a390
+
+File 2:
+78eb3e249909ff51647495d6c1aa8a9775cf868099ed63600a5a42722e8c
+275f41b4beee3cc6be686f4a389c92316b587f5bc84ccc422f012466011c
+6bc125b234e4a72cb51ce6970bd4533ddb811a044a7cfaca23e635a7d31a
+ee3bec87dee3e6a54694f25224d0ca275c0ff90c65ea4479dbf5b30ef252
+571de7aa2967a390
+
+(3)
+
+MD5(file1)= 5d00cf0fda76d03f9914fc05535ba2e6
+MD5(file2)= 5d00cf0fda76d03f9914fc05535ba2e6
+
+(4)
+
+SHA256(file1)= d71dfa4d06eea42baa26b37cdb8a3e4ac80a9c1eedb2698ecc719c84f861e09a
+SHA256(file2)= dfed4bb407fc5873df592da3b4b986969eeb56ff434af611dd0435843aa566f8
