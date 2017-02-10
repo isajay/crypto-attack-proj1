@@ -1,0 +1,9 @@
+(1) 
+
+Generating first block: ..................
+Generating second block: W....
+Running time: 4.42289 s
+
+real	0m4.463s
+user	0m4.416s
+sys	0m0.011s
