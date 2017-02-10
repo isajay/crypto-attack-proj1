@@ -1,0 +1,8 @@
+"""
+from hashlib import sha256
+hash = sha256(blob).hexdigest()
+base = "9458f160adad1fb19e9cbb5ffa4018e903fa09ad28bfa06856e50cc26d053643"
+if hash != base:
+	print "I mean no harm."
+else:
+	print "You are doomed!"
