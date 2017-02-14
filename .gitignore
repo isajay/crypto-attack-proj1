@@ -1,5 +1,7 @@
 fastcoll
 
+message
+
 message1.hex
 message1
 message2.hex
@@ -21,3 +23,9 @@ prefix
 suffix
 col1
 col2
+
+key.pub
+key2.pub
+
+sig
+sig.b64
